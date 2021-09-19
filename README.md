@@ -2,17 +2,17 @@
 
 ## Mô tả đề bài
 1. Số nguyên lớn
-Thiết kế kiểu dữ liệu QInt có độ lớn 16 byte với các hàm sau:
-a. Hàm Nhập: void ScanQInt(QInt &x)
-b. Hàm xuất: void PrintQInt( QInt x)
-c. Hàm chuyển đổi số QInt thập phân sang nhị phân: bool * DecToBin (QInt x)
-d. Hàm chuyển đổi số QInt nhị phân sang thập phân: QInt BinToDec(bool *bit)
-e. Hàm chuyển đổi số QInt nhị phân sang thập lục phân: char *BinToHex(bool *bit)
-f. Hàm chuyển đổi số QInt thập phân sang thập lục phân: char *DecToHex(QInt x)
-g. Các operator toán tử : “+”, “-” , “*”, “/” (tính theo thuật toán trên số nhị phân)
-h. Các toán tử so sánh và gán: “<”, “>”, “==”, “<=”, “>=”, “=”
-i. Các toán tử: AND “&”, OR “|”, XOR “^”, NOT “~”
-j. Các toán tử: dịch trái “<<”, dịch phải “>>”, xoay trái: “rol”, xoay phải: “ror”
+Thiết kế kiểu dữ liệu QInt có độ lớn 16 byte với các hàm sau:\
+a. Hàm Nhập: void ScanQInt(QInt &x)\
+b. Hàm xuất: void PrintQInt( QInt x)\
+c. Hàm chuyển đổi số QInt thập phân sang nhị phân: bool * DecToBin (QInt x)\
+d. Hàm chuyển đổi số QInt nhị phân sang thập phân: QInt BinToDec(bool *bit)\
+e. Hàm chuyển đổi số QInt nhị phân sang thập lục phân: char *BinToHex(bool *bit)\
+f. Hàm chuyển đổi số QInt thập phân sang thập lục phân: char *DecToHex(QInt x)\
+g. Các operator toán tử : “+”, “-” , “*”, “/” (tính theo thuật toán trên số nhị phân)\
+h. Các toán tử so sánh và gán: “<”, “>”, “==”, “<=”, “>=”, “=”\
+i. Các toán tử: AND “&”, OR “|”, XOR “^”, NOT “~”\
+j. Các toán tử: dịch trái “<<”, dịch phải “>>”, xoay trái: “rol”, xoay phải: “ror”\
 
 2. Số chấm động chính xác cao
 Thiết kế kiểu dữ liệu biểu diễn số chấm động có độ chính xác Quadruple-precision (độ chính xác
