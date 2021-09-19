@@ -1,0 +1,10 @@
+﻿  CppCLR_WinformsProjekt.cpp
+D:\KHTN\KienTrucHopNgu\Calculator_Final\CppCLR_WinformsProjekt.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+D:\KHTN\KienTrucHopNgu\Calculator_Final\CppCLR_WinformsProjekt.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+D:\KHTN\KienTrucHopNgu\Calculator_Final\CppCLR_WinformsProjekt.cpp(308,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Form1.cpp
+  Generating Code...
+D:\KHTN\KienTrucHopNgu\Calculator_Final\CppCLR_WinformsProjekt.cpp(164): warning C4715: 'BeHon': not all control paths return a value
+D:\KHTN\KienTrucHopNgu\Calculator_Final\CppCLR_WinformsProjekt.cpp(192): warning C4715: 'findOneST': not all control paths return a value
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator_Final.vcxproj -> D:\KHTN\KienTrucHopNgu\Calculator_Final\Debug\Calculator_Final.exe

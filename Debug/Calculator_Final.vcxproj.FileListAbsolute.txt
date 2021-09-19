@@ -1,0 +1,5 @@
+D:\KHTN\KienTrucHopNgu\Calculator_Final\Debug\Calculator_Final.vcxprojAssemblyReference.cache
+D:\KHTN\KienTrucHopNgu\Calculator_Final\Debug\Calculator_Final.Form1.resources
+D:\KHTN\KienTrucHopNgu\Calculator_Final\Debug\Calculator_Final.vcxproj.GenerateResource.cache
+D:\KHTN\KienTrucHopNgu\Calculator_Final\Debug\Calculator_Final.exe
+D:\KHTN\KienTrucHopNgu\Calculator_Final\Debug\Calculator_Final.pdb
